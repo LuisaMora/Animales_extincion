@@ -1,0 +1,149 @@
+*{
+    padding: 0;
+    margin: 0;
+    max-width: 1900px;
+    font-family: 'Niconne', cursive;
+    text-decoration: none;
+ }
+ .encabezado{
+    padding: 25px;
+    font-size: 45px;
+    text-align: center;
+    color: #fffafa;
+    background-image: url("imagenes/fondo.jpg");
+    height: auto;
+    width: 100%;
+    text-shadow: 3px 3px 0px #9e700d, 
+                5px 5px 0px  #442609;
+ }
+  .dato{
+    color: #f8f8f8;
+    font-size: x-large;
+    margin: 15px 20px 50px 20px;
+    background-color: #750606cc;
+    text-shadow: 3px 3px 0px  #3a230b;
+    border-radius: 5px;
+    padding: 50px;
+  }
+ .imagencentral{
+     float: left;
+     height: 270px;
+     margin: 30px 25px 25px 35px;
+     border-radius: 5px;
+     text-align: center;
+     max-width: 100%;
+  }
+  .indice{
+   text-align: left;
+   border: 5px solid #584511;
+   padding: 30px;
+   border-radius: 10px;
+  }
+  
+  .lista_animales{
+    margin: 15px 30px 0px 30px;
+    padding: 10px 40px 40px 20px;
+    text-align: center;
+ }
+  .imagenes_animales{
+     margin: 40px;
+     height: 270px;
+     box-shadow: 10px 10px 0 0 rgb(94, 57, 8);
+     border-radius: 5px;
+     max-width: 100%
+  }
+  .imagenes_animales:hover{
+   margin: 2.5rem;
+   height: 280px;
+   box-shadow: 10px 10px 0 0 rgb(163, 99, 15);
+   border-radius: 5px;
+   max-width: 100%;
+   transition: 0.1s;
+   
+}
+ .contactos{
+    margin: 5px 20px 20px 20px;
+    text-align: center;
+    padding: 10px;
+ }
+ .contenido{
+    padding: 35px;
+    font-size: small;
+    text-align: left;
+ }
+ .subtitulos{
+    text-align: center;
+    background-color: #7c572d;
+    margin :25px;
+    border-radius: 25px;
+    padding: 5px;
+    color: #ffffff;
+ }
+ .caja{
+    border-radius: 20px;
+    height: auto;
+    width: auto;
+    margin: 0px 20px 20px 5px;
+    background-color: #581111;
+  }
+  .ayudatitulo{
+    text-align: center;
+    color: #ffffff;
+    background-color:transparent ;
+    padding: 20px;
+    text-shadow: 3px 3px 0px #9e700d, 
+                5px 5px 0px  #442609;
+  }
+  
+  .listasss{
+     margin: 55px;
+     font-size: 18px;
+     text-align: left;
+  }
+ 
+  .inst{
+     text-align: center;
+    padding: 20px;
+    font-size: small;
+    color: white;
+    background-color: #5a750f;
+    margin: 10px;
+    border-radius: 20px;
+    font-size: x-large;
+  }
+  .instituciones{
+     margin: 20px;
+     padding: 20px;
+     text-align: left;
+     font-size: small;
+  }
+ .imagenes_inst{
+    box-shadow: 5px 5px 0 0 rgb(71, 92, 57);
+    border-radius: 5px;
+     margin: 15px;
+     padding: 15px;
+     width: auto;
+     height: 100px;
+     float: left;
+ }
+ .links{
+    color: #f8f8f8;
+    background-color: #473908;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 5px 50px 0px 50px;
+ }
+ footer {
+    text-align: center;
+    background-image: url("imagenes/fondo.jpg");
+    margin-top: 100px;
+    bottom: 0;
+    width: 100%;
+    height: 200px;
+  }
+ 
+  
+ 
+ 
+ 
